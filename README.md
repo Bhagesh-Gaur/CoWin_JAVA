@@ -1,7 +1,7 @@
 # CoWin_JAVA
 A command-line implementation of the CoWin portal using Java and OOPS concepts.
 
-** How to run?? 
+##How to run?? 
   1. Setup a project after install JDK 16(prefered) or above.
   2. Add the project files to the src folder.
   3. Now run the project using CoWin as the main class.
